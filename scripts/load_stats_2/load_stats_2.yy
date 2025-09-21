@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"load_stats_2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"load_stats_2",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Salas/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

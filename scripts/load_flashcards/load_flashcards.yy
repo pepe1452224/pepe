@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"load_flashcards",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"load_flashcards",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Salas/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

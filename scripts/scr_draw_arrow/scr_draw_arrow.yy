@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_draw_arrow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_arrow",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Salas/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

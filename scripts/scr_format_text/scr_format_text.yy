@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_format_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_format_text",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Salas/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

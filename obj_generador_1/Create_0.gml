@@ -1,0 +1,1 @@
+global.act1=false
